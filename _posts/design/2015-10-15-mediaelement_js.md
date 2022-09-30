@@ -30,7 +30,7 @@ mediaplayer: true
 mediaplayer: true
 ~~~
 
-To use the player just use some HTML5-magic like...
+To use the player just use some HTML5-magic like... this!
 
 {% highlight html %}
 <audio src="http://path-to-file.com/music.mp3" type="audio/mp3" controls="controls"></audio>
