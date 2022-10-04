@@ -2,24 +2,18 @@
 
 layout: page
 
-# subheadline: "Video & Music Player"
-
 title: "Hello world, I'm Andy"
 
 teaser: "Just an introduction"
 
-# categories:
+categories:
+    - about me
 
-#
-
-# Styling
-
-#
+tags:
+    - test
+    - andy
 
 header: no
-
-
-
 
 ---
 
